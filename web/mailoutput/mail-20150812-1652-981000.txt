@@ -1,0 +1,13 @@
+To: Morgan Korchia <mkorchia@beamap.co.uk>
+Subject: Re: Need a room
+Date: Wed, 12 Aug 2015 18:52:56 +0200
+From: Hotel Booking <hotelbooking301@gmail.com>
+Message-ID: <6e92f4cccd0f67346c185fa24dab815f@localhost>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.10 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hi Morgan Korchia<br>0<br><br>Best regards<br><b>Hotel Bookings</b>
+

@@ -1,0 +1,13 @@
+To: teena meena <teenameena92@gmail.com>
+Subject: Re: Fwd:
+Date: Wed, 12 Aug 2015 17:32:11 +0200
+From: Hotel Booking <hotelbooking301@gmail.com>
+Message-ID: <35a59fdc97939f9ee53ccf2544fdc984@localhost>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.10 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hi teena meena<br>0<br><br>Best regards<br><b>Hotel Bookings</b>
+

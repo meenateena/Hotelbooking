@@ -1,0 +1,13 @@
+To: Google <no-reply@accounts.google.com>
+Subject: Re: Sign-in attempt prevented
+Date: Wed, 12 Aug 2015 17:30:25 +0200
+From: Hotel Booking <hotelbooking301@gmail.com>
+Message-ID: <e4c758b2808a82b3198fbeb09cf302df@localhost>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.10 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hi Google<br>0<br><br>Best regards<br><b>Hotel Bookings</b>
+
